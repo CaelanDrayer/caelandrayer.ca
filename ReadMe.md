@@ -1,5 +1,5 @@
 ---
-title: Ream Me
+title: Read Me
 draft: false
 tags:
   - readme
