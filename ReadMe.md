@@ -9,12 +9,12 @@ permalink:
 enableToc: true
 cssclasses: 
 created: 2025-04-13  15:01
-modified: 2025-04-13  16:53
+modified: 2025-04-13  16:56
 published: 
 ---
  
 Hi! 
 
-Maybe take a look [[caelandrayer.ca/About Me|About Me]]
+Maybe take a look and see [About Me](caelandrayer.ca/About%20Me.md)
 
-Otherwise, I have a been working on some things in [[caelandrayer.ca/Caelan's Domain/Caelan's Domain|Caelan's Domain]] - take a look! 
+Otherwise, I have a been working on some things in [Caelan's Domain](caelandrayer.ca/Caelan's%20Domain/Caelan's%20Domain.md) - take a look! 
