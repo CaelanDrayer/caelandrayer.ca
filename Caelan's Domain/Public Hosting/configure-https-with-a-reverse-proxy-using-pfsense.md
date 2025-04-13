@@ -1,16 +1,23 @@
-# Configure HTTPS with a Reverse Proxy using pfSense
-
+---
+created: 2025-04-13  14:37
+modified: 2025-04-13  16:28
+title: Configure HTTPS with a Reverse Proxy Using pfSense
+description: A guide on how to configure HTTPS using pfSense via the reverse proxy HAProxy.
+---
 ### Preface
 
 I found in my travels around the web that the guides for setting up HTTPS are a tad scattered. While you might be able to find a guide for setting up the components individually, they rarely come together as a single piece (or they come in a 20+ minute video guide - not my favourite format).
 
 As this task has tons of little parts, I made my own documentation. Then I wanted to share it with a friend. Then I realized with a bit more tweaks, this could be useful for everyone - and thus this document was born.
 
-I am a big big fan of [simplicity.](https://caelandrayer.wiki/books/caelans-domain/page/simplicity) If something is not simple (and thus unclear) - let me know so I can iterate &amp; improve.
+I am a big big fan of simplicity. If something is not simple (and thus unclear) - let me know so I can iterate & improve.
 
-##### Objective
+> [!summary] Objective 
+> Configure HTTPS using a Reverse Proxy - Using only the pfSense network appliance 
 
-Configure HTTPS using a Reverse Proxy - Using only the pfSense network appliance
+
+
+
 
 ##### Requirements
 
@@ -25,9 +32,9 @@ Configure HTTPS using a Reverse Proxy - Using only the pfSense network appliance
 
 pfsense CE 2.7.2
 
-HAProxy 3.1.0
+HAProxy 0.63_2
 
-ACME
+ACME 0.9.1
 
 - ##### Required Knowledge
 
@@ -53,7 +60,7 @@ The safest way to manage a network is to not expose it in the first place.
 
 This diagram is intended to give you a rough idea of the flow of traffic once setup
 
-[![reverse proxy.png](https://caelandrayer.wiki/uploads/images/gallery/2025-04/scaled-1680-/reverse-proxy.png)](https://caelandrayer.wiki/uploads/images/gallery/2025-04/reverse-proxy.png)
+
 
 *(Keep in mind this diagram is intended to illustrate the items configured as a part of this document - and not intended as a true technical reference)*
 
