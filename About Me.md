@@ -1,5 +1,6 @@
 ---
 title: Example Title
+title: About Me
 draft: false
 tags:
   - About
@@ -7,6 +8,8 @@ tags:
 created: 2025-04-13  14:37
 modified: 2025-04-13  16:45
 description: This is an About Me - Caelan Drayer
+modified: 2025-04-13  17:00
+description: This is an about page for me,  Caelan Drayer
 aliases:
   - aboutme
   - about
