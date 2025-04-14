@@ -5,7 +5,7 @@ tags:
   - About
   - CaelanDrayer
 created: 2025-04-13  14:37
-modified: 2025-04-13  17:08
+modified: 2025-04-13  17:09
 description: This is an about page for me,  Caelan Drayer
 aliases:
   - aboutme
