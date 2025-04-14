@@ -5,7 +5,7 @@ tags:
   - About
   - CaelanDrayer
 created: 2025-04-13  14:37
-modified: 2025-04-13  17:09
+modified: 2025-04-14  01:15
 description: This is an about page for me,  Caelan Drayer
 aliases:
   - aboutme
@@ -18,7 +18,7 @@ aliases:
 <img align="right" src="caelandrayer.ca/attachments/caelan_portrait_large.jpeg" alt="caelan_portrait_large" width="200vw">
 Nice to see you here. I am Caelan, a technology professional based in Vancouver.
 
-Like many people in tech, I have been tinkering my whole life. From a very young age I was happily doing things like getting Linux distributions running ([LFS](https://www.linuxfromscratch.org/) anyone?) to hosting my own services.   
+Like many people in tech, I have been tinkering my whole life. From a very young age I was happily doing things like getting Linux distributions running (Cutting my teeth on things like[LFS](https://www.linuxfromscratch.org/)) to hosting my own services.   
 
 I coached Competitive Gymnastics for a bit over 10 years, however when COVID came around it made that field of work a challenge. It was at this point I switched to working in tech.   
 
@@ -33,7 +33,7 @@ I work with & oversee a team of of 4-12 with whom I enjoy providing expertise, g
 
 I collaborate extensively with senior management/executives (both internal and external) to define, scope, & deliver solutions that include: SaaS tools, ERP Systems, CX platforms, cloud & physical infrastructure, cybersecurity enhancements, networking, endpoint management, identity access management, email security, & operational support.
 
-I am heavily involved in all the moving parts required to bring a new solution to full operational status. I handle everything from: engaging stakeholders to determine business needs, solution evaluations, design & architecture documents, quoting, planning & coordination, technical configuration, operational hand-offs & end user training.
+I am heavily involved in all the moving parts required to bring a new solution to full operational status. I handle everything from: engaging stakeholders to determining business needs, solution evaluations, design & architecture documents, quoting, planning & coordination, technical configuration, operational hand-offs & end user training.
 
 I also serve as an escalation point for senior leadership of clients & internally (including VPs and C-Suite), managing issue resolution, incident response, remediation planning, and impact assessments.
 
