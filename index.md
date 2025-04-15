@@ -1,5 +1,5 @@
 ---
-title: Index
+title: 
 draft: false
 tags: 
 aliases: 
@@ -8,8 +8,10 @@ permalink:
 enableToc: true
 cssclasses: 
 created: 2025-04-13  15:01
-modified: 2025-04-14  02:14
+modified: 2025-04-13  16:20
 published: 
 ---
- 
-Index page
+Maybe take a look and learn [about me](about_me.md)
+
+Otherwise, I have a been writing things in my [Knowledge Base](kb/index.md) - take a look! 
+
