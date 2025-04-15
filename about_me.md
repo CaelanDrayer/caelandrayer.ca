@@ -15,8 +15,7 @@ aliases:
 ---
 
 # Hello!
-<img align="right" src="attachments/caelan_portrait_large.jpeg" alt="caelan_portrait_large" width="200vw">
-![Caelan Portrait](attachments/caelan_portrait_large.jpeg) { align=right }
+<img align="right" src="/attachments/caelan_portrait_large.jpeg" alt="caelan_portrait_large" width="200vw">
 Nice to see you here. I am Caelan, a technology professional based in Vancouver.
 
 Like many people in tech, I have been tinkering my whole life. From a very young age I was happily doing things like getting Linux distributions running (Cutting my teeth on things like[LFS](https://www.linuxfromscratch.org/)) to hosting my own services.   
