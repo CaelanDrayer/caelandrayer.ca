@@ -13,5 +13,5 @@ published:
 ---
 Maybe take a look and learn [about me](about_me.md)
 
-Otherwise, I have a been writing things in my [Knowledge Base](Knowledge%20Base/index.md) - take a look! 
+Otherwise, I have a been writing things in my knowledge base - Please take a look!
 
