@@ -16,7 +16,7 @@ published:
 <img align="right" src="/attachments/caelan_portrait_large.jpeg" alt="caelan_portrait_large" width="200vw">
 Nice to see you here. I am Caelan, a technology professional based in Vancouver.
 
-Like many people in tech, I have been tinkering my whole life. From a very young age I was happily doing things like getting Linux distributions running (Cutting my teeth on things like [LFS](https://www.linuxfromscratch.org/)) to hosting my own services.   
+Like many people in tech, I have been tinkering my whole life. From a very young age I was happily doing things like getting Linux distributions running (cutting my teeth on things like [LFS](https://www.linuxfromscratch.org/)) to hosting my own services.   
 
 I coached Competitive Gymnastics for a bit over 10 years, however when COVID came around it made that field of work a challenge. It was at this point I switched to working in tech.   
 
