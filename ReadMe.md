@@ -12,5 +12,5 @@ Hi! This github repo links into https://caelandrayer.ca -- best viewed there!
 
 Maybe take a look and learn [about me](about_me.md)
 
-Otherwise, I have a been writing things in my [index](Knowledge%20Base/index.md) - take a look! 
+Otherwise, I have been creating a bit of a knowledge base -- take  look!
 
