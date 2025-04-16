@@ -26,7 +26,7 @@ A few years later, I have established myself as a Solutions Architect, though ti
 > 
 
 > [!hint] Check out my knowledge base!
-> I have been putting together some documentation - happy to share it with the world. Take a look (on the left toolbar) and see if anything helps you out. 
+> I have been putting together some documentation - happy to share it with the world. Take a look (on the left toolbar/blade) and see if anything helps you out. 
 > 
 > If there is something you are curious about and would like some documentation on - let me know!
 
