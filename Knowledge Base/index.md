@@ -16,10 +16,8 @@ published:
  
 Welcome to my knowledge base. 
 
-
-> [!hint]+ See anything missing? Have a requested documentation piece? Let me know! (expand for socials)
-> Email - caelan@caelandrayer.ca
-> Linkedin - https://www.linkedin.com/in/caelandrayer/
+> [!hint]- See anything missing? Spot an error? Have a request? Let me know!
+ My [Linkedin](https://www.linkedin.com/in/caelandrayer/) or email at [caelan@caelandrayer.ca](mailto:caelan@caelandrayer.ca) 
 
 # Webhosting
-[Configure HTTPS with a revers proxy using pfSense](web_hosting/configure-https-with-a-reverse-proxy-using-pfsense.md)
+[Configure HTTPS with a reverse proxy using pfSense](web_hosting/configure-https-with-a-reverse-proxy-using-pfsense.md)
