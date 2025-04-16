@@ -67,23 +67,23 @@ Recognized by clients for my ability to clearly & effectively communicate & hand
 
 #### Technical Highlights
 
-| Solution Type                             | Technology Stack(s)                                                                                               |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Azure                                     | Subscriptions & Billing, Virtual Machines, VNET, VNG, VWAN, Storage Accounts, Automation Accounts, Log Analytics, |
-| Virtual Desktops                          | AVD, RDS, RDG                                                                                                     |
-| Identity Solutions & Security             | MFA, PIM/PAM, IAM, NPS, MFA, SAML                                                                                 |
-| Email Solutions & Security                | MSFT Defender, ATP, SPF/DKIM/DMARC                                                                                |
-| Endpoint / UEM / MDM Solutions & Security | Intune, Group Policy, Registry                                                                                    |
-| Network Security Solutions                | Pfsense, Meraki, Sonicwall, IDS/IPS, DNS, IPSEC, VPN, SD-WAN                                                      |
-| EDR / MDR Solutions                       | Blackpoint, SentinalOne, MSFT Defender                                                                            |
-| RMM Tools                                 | Labtech, ScreenConnect, TacticalRMM, RustDesk                                                                     |
-| Web Hosting                               | Linux, Reverse Proxies, Wordpress                                                                                 |
-| Data Hosting & Access Solutions           | SharePoint Online, File Shares, Azure Files                                                                       |
-| BCDR                                      | Azure Backup Suite, Axcient, Skykick                                                                              |
-| Microsoft 365 Suite                       | Defender, Purview, Exchange, Entra, M365, SharePoint, Power Platform, etc                                         |
-| Data Loss Prevention                      | Microsoft Purview                                                                                                 |
-| Scripting                                 | PowerShell, Microsoft Graph                                                                                       |
-| Logging & Alerts                          | Azure Monitor, Lionguard, Zabbix                                                                                  |
-|                                           |                                                                                                                   |
+| Solution Type                             | Technology Stack(s)                                                                                                     |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Azure                                     | Subscriptions & Billing, Virtual Machines, VNET, VNG, VWAN, Storage Accounts, Automation Accounts, Log Analytics,       |
+| Virtual Desktops                          | AVD, RDS, RDG                                                                                                           |
+| Identity Solutions & Security             | MFA, PIM/PAM, IAM, NPS, MFA, SAML                                                                                       |
+| Email Solutions & Security                | MSFT Defender, ATP, SPF/DKIM/DMARC                                                                                      |
+| Endpoint / UEM / MDM Solutions & Security | Intune, Group Policy, Registry                                                                                          |
+| Network Security Solutions                | Pfsense, Meraki, Sonicwall, IDS/IPS, DNS, IPSEC, VPN, SD-WAN                                                            |
+| EDR / MDR Solutions                       | Blackpoint, SentinalOne, MSFT Defender                                                                                  |
+| RMM Tools                                 | Labtech, ScreenConnect, TacticalRMM, RustDesk                                                                           |
+| Web Hosting                               | Linux, [Reverse Proxies](Knowledge%20Base/web_hosting/configure-https-with-a-reverse-proxy-using-pfsense.md), Wordpress |
+| Data Hosting & Access Solutions           | SharePoint Online, File Shares, Azure Files                                                                             |
+| BCDR                                      | Azure Backup Suite, Axcient, Skykick                                                                                    |
+| Microsoft 365 Suite                       | Defender, Purview, Exchange, Entra, M365, SharePoint, Power Platform, etc                                               |
+| Data Loss Prevention                      | Microsoft Purview                                                                                                       |
+| Scripting                                 | PowerShell, Microsoft Graph                                                                                             |
+| Monitoring                                | Azure Monitor, Lionguard, Zabbix                                                                                        |
+|                                           |                                                                                                                         |
 
 
