@@ -177,7 +177,7 @@ The settings do the following:
 > [!faq]+ Okay, I have HTTP redirected - Does that mean I am safe?
 > Nope! Unfortunately there is still a risk here. Since the user is connecting without a certificate initially, there is a chance something like a MiTM attack could do something malicous.
 >
-To mitigate as much of that risk as we can, we use HSTS:
+> To mitigate as much of that risk as we can, we use HSTS:
 >- [https://hstspreload.org/](https://hstspreload.org/)
 >- [https://www.haproxy.com/blog/haproxy-and-http-strict-transport-security-hsts](https://www.haproxy.com/blog/haproxy-and-http-strict-transport-security-hsts)
 >
