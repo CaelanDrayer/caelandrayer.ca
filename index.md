@@ -66,7 +66,7 @@ Recognized by clients for my ability to clearly & effectively communicate & hand
 - Without business disruption designed & deployed a full network stack (Firewall, Switch, WAP, VPN, DNS, DHCP) with linked IPsec tunnels across 8 sites across Canada to 150+ users and 15 On-Prem Servers
 - Deployed 500+ endpoints to 50+ locations. Configured & setup in Intune with Autopilot, device configurations, encryption, and other zero-trust policies
 
-#### Technical Highlights
+### Technical Highlights
 
 | Solution Type                             | Technology Stack(s)                                                                                                     |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -79,7 +79,7 @@ Recognized by clients for my ability to clearly & effectively communicate & hand
 | Network Security Solutions                | Pfsense, Meraki, Sonicwall, IDS/IPS, DNS, IPSEC, VPN, SD-WAN                                                            |
 | EDR / MDR Solutions                       | Blackpoint, SentinalOne, MSFT Defender                                                                                  |
 | RMM Tools                                 | Labtech, ScreenConnect, TacticalRMM, RustDesk                                                                           |
-| Web Hosting                               | Linux, [Reverse Proxies](Knowledge%20Base/web_hosting/configure-https-with-a-reverse-proxy-using-pfsense.md), Wordpress |
+| Web Hosting                               | Linux, [Reverse Proxies](knowledge_base/web_hosting/configure-https-with-a-reverse-proxy-using-pfsense.md), Wordpress |
 | Data Hosting & Access Solutions           | SharePoint Online, File Shares, Azure Files                                                                             |
 | BCDR                                      | Azure Backup Suite, Axcient, Skykick                                                                                    |
 | Microsoft 365 Suite                       | Defender, Purview, Exchange, Entra, M365, SharePoint, Power Platform, etc                                               |
