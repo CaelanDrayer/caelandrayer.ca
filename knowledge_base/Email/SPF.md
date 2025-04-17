@@ -1,6 +1,6 @@
 ---
 title: Sender Policy Framework
-draft: false
+draft: true
 tags:
   - SPF
   - Email
