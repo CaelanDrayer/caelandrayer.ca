@@ -9,11 +9,13 @@ enableToc: true
 cssclasses: 
 created: 2025-04-13  15:01
 modified: 2025-04-13  16:20
-published:
+published: 
+comments: "true"
 ---
 
 # Hello!
 <img align="right" src="/attachments/caelan_portrait_large.jpeg" alt="caelan_portrait_large" width="200vw">
+## About Me
 Nice to see you here. I am Caelan, a technology professional based in Vancouver.
 
 Like many people in tech, I have been tinkering my whole life. From a very young age I was happily doing things like getting Linux distributions running (cutting my teeth on things like [LFS](https://www.linuxfromscratch.org/)) to hosting my own services.   
