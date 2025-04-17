@@ -143,7 +143,7 @@ the "Address" field should be the LAN/Local IP of the service
 
 the "Port" field is the port the service is listening on
 
-[![image.png](https://caelandrayer.wiki/uploads/images/gallery/2025-04/scaled-1680-/9DNimage.png)](https://caelandrayer.wiki/uploads/images/gallery/2025-04/9DNimage.png)
+![backend](attachments/backend.png)]
 
 > [!tip] Every unique service will require its own unique backend
 

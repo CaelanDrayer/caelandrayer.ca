@@ -33,7 +33,6 @@ A few years later, I have established myself as a Solutions Architect, though ti
 
 
 
-
 ## Business Highlights
 
 I work with & oversee a team of of 4-12 with whom I enjoy providing expertise, guidance and support.   
@@ -69,7 +68,8 @@ Recognized by clients for my ability to clearly & effectively communicate & hand
 
 | Solution Type                             | Technology Stack(s)                                                                                                     |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Azure                                     | Subscriptions & Billing, Virtual Machines, VNET, VNG, VWAN, Storage Accounts, Automation Accounts, Log Analytics,       |
+| Azure                                     | Subscriptions & Billing, Virtual Machines, VNET, VNG, VWAN, Storage Accounts, Automation Accounts, Log Analytics        |
+| Domain                                    | Entra ID, Active Directory, Entra ID Domain Services                                                                    |
 | Virtual Desktops                          | AVD, RDS, RDG                                                                                                           |
 | Identity Solutions & Security             | MFA, PIM/PAM, IAM, NPS, MFA, SAML                                                                                       |
 | Email Solutions & Security                | MSFT Defender, ATP, SPF/DKIM/DMARC                                                                                      |
