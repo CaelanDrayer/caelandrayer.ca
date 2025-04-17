@@ -1,7 +1,7 @@
 ---
 created: 2025-04-13  14:37
 modified: 2025-04-13  16:28
-title: Configure HTTPS with a Reverse Proxy Using pfSense
+title: Configuring HTTPS with a Reverse Proxy Using pfSense
 description: A guide on how to configure HTTPS using pfSense via the reverse proxy HAProxy.
 tags:
   - Proxy
