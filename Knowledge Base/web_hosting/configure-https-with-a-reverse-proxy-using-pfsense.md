@@ -13,7 +13,7 @@ tags:
   - HAProxy
   - LetsEncrypt
   - DNS
-comments: "true"
+comments: true
 ---
 ### Preface
 
