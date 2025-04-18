@@ -52,8 +52,8 @@ sequenceDiagram
   end
   participant DNS as DNS Records
   box Receiver
-  participant RMS as Recieving Mail Server
-  actor RUser as Recieving User
+  participant RMS as Receiving Mail Server
+  actor RUser as Receiving User
   end
 
   User ->> SMS: Mail send request
