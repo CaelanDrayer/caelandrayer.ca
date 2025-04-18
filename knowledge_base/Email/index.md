@@ -19,7 +19,7 @@ This is a primer on the core components of email - with a handy sequence diagram
 
 # Email Authentication
 
-Email Authentication is the methods in which we ensure that the email being sent/received is "authentic".
+Email Authentication are the methods in which we ensure that the email being sent/received is "authentic".
 
 > [!example]- Want to spoof an email yourself? (Please don't...)
 > It can really help illustrate why all of these things are important by demonstrating how easy it is to spoof an email.
@@ -36,19 +36,19 @@ Email Authentication is the methods in which we ensure that the email being sent
 
 There are a 4 key components of modern email authentication - and all of them should be contained in a domains public DNS records. 
 
-| Acronym | Formal Name                                                 | Standard                                               | Purpose                                                                                                                                                                                                                    |     |
-| ------- | ----------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| MX      | Mail Exchange                                               | [RFC974](https://www.rfc-editor.org/rfc/rfc974.html)   | When a mail server is sending mail (typical mail sent via Simple Mail Transfer Protocol - SMTP) it will read this record to know who to send the mail to                                                                   |     |
-| SPF     | Sender Policy Framework                                     | [RFC7208](https://www.rfc-editor.org/rfc/rfc7208.html) | A list of who is an authorized sender for a domain                                                                                                                                                                         |     |
-| DKIM    | DomainKeys Identified Mail                                  | [RFC6376](https://www.rfc-editor.org/rfc/rfc6376.html) | Using public-key cryptography, a sending mail server will sign the header of an email. The public DKIM record is then used by the receiver to check the signature & ensure the mail is legitimate/the untouched in transit |     |
-| DMARC   | Domain-based Message Authentication, Reporting, Conformance | [RFC7489](https://www.rfc-editor.org/rfc/rfc7489.html) | This instructs mail receivers on what to do with mail that does not pass SPF/DKIM                                                                                                                                          |     |
+| Acronym | Formal Name                                                 | Standard                                               | Purpose                                                                                                                                       |     |
+| ------- | ----------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| MX      | Mail Exchange                                               | [RFC974](https://www.rfc-editor.org/rfc/rfc974.html)   | Instructs senders where to direct mail for a domain                                                                                           |     |
+| SPF     | Sender Policy Framework                                     | [RFC7208](https://www.rfc-editor.org/rfc/rfc7208.html) | A list of who is an authorized sender for a domain                                                                                            |     |
+| DKIM    | DomainKeys Identified Mail                                  | [RFC6376](https://www.rfc-editor.org/rfc/rfc6376.html) | Using public-key cryptography, the sender signs the email header. The receiver checks the signature to ensure email was transmitted correctly |     |
+| DMARC   | Domain-based Message Authentication, Reporting, Conformance | [RFC7489](https://www.rfc-editor.org/rfc/rfc7489.html) | Instructs receivers on what to do with mail that does not pass SPF/DKIM for a domain                                                          |     |
 
-> [!caution] Okay, I have all these setup. Is that enough?
-> If you are trying to send mail? Yep! 
+> [!caution] Okay, I have all these records setup. Is that enough?
+> If you are  sending mail? Yep! 
+> 	Though you might need/want a mail server...
 > 
 > If you are receiving mail? Nope! 
-> 
-> This just ensures that mail is authentic - It doesnt check if it is spam/phishing/malware etc. You will need to configure additional protections for that. 
+> 	This just ensures that mail is authentic - It doesn't check if it is spam/phishing/malware etc. You will need to configure additional protections for that. 
 
 Sequence workflow to help illustrate what happens when:
 ```mermaid
@@ -68,17 +68,17 @@ sequenceDiagram
   Note left of SMS: Is this user allowed to send via this mail server?
   SMS ->> SMS: Authentication challenge
   break Authentication Failed
-    SMS ->> User: Send request rejects
+    SMS ->> User: Send request rejected
   end
   autonumber 3
   SMS ->> SMS: Authentication pass
-  SMS ->> DNS: Get MX record for recipient
-  Note over SMS: Who should Receive this mail?
+  SMS ->> DNS: Get MX record for Receiver
+  Note over SMS: Who should receive this mail?
   DNS ->> SMS: Return MX record
-  SMS ->> RMS: Send mail to recipient mail servers
+  SMS ->> RMS: Send mail to Receiver (mail servers)
   Note over SMS: Sign mail header with DKIM private key
   RMS ->> DNS: Get SPF, DKIM, DMARC
-  Note over RMS: What are the records for this sender?
+  Note over RMS: What are the records for this Sender?
   DNS ->> RMS: Return SPF, DKIM, DMARC
   RMS ->> RMS: Evaulate SPF
   Note over RMS: Is this Sender in the SPF record?

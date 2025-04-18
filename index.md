@@ -1,9 +1,11 @@
 ---
 title: Home
 draft: false
-tags: 
-aliases: 
-description: 
+tags:
+  - aboutme
+aliases:
+  - About Me
+description: Homepage & About ME
 permalink: 
 enableToc: true
 cssclasses: 
