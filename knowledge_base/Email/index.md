@@ -31,7 +31,7 @@ Email Authentication is the methods in which we ensure that the email being sent
  
 > [!hint]+ Email Authentication Best Practices
 > The "Messaging, Malware and Mobile Anti-Abuse Working Group" (M3AAWG)  have a very comprehensive guide on best practices for email authentication. Take a read!
-> https://www.m3aawg.org/sites/default/files/m3aawg-email-authentication-recommended-best-practices-09-2020.pdf
+>[ M3AAWG Email Authentication Recommended Best Practices](https://www.m3aawg.org/sites/default/files/m3aawg-email-authentication-recommended-best-practices-09-2020.pdf)
 
 There are a 4 key components of modern email authentication - and all of them should be contained in a domains public DNS records. 
 
