@@ -3,7 +3,8 @@ title: Email
 draft: false
 tags:
   - Email
-aliases: 
+aliases:
+  - Email Solutions & Security
 description: How does email work?
 permalink: 
 enableToc: true
