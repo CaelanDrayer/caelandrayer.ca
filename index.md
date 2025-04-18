@@ -35,8 +35,6 @@ A few years later, I have established myself as a Solutions Architect, though ti
 > If there is something you are curious about and would like some documentation on - let me know!
 
 
-
-
 ## Business Highlights
 
 I work with & oversee a team of of 4-12 with whom I enjoy providing expertise, guidance and support.   
