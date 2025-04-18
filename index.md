@@ -66,26 +66,26 @@ Recognized by clients for my ability to clearly & effectively communicate & hand
 - Without business disruption designed & deployed a full network stack (Firewall, Switch, WAP, VPN, DNS, DHCP) with linked IPsec tunnels across 8 sites across Canada to 150+ users and 15 On-Prem Servers
 - Deployed 500+ endpoints to 50+ locations. Configured & setup in Intune with Autopilot, device configurations, encryption, and other zero-trust policies
 
-### Technical Highlights
+## Technical Highlights
 
-| Solution Type                             | Technology Stack(s)                                                                                                     |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Azure                                     | Subscriptions & Billing, Virtual Machines, VNET, VNG, VWAN, Storage Accounts, Automation Accounts, Log Analytics        |
-| Domain                                    | Entra ID, Active Directory, Entra ID Domain Services                                                                    |
-| Virtual Desktops                          | AVD, RDS, RDG                                                                                                           |
-| Identity Solutions & Security             | MFA, PIM/PAM, IAM, NPS, MFA, SAML                                                                                       |
-| Email Solutions & Security                | MSFT Defender, ATP, SPF/DKIM/DMARC                                                                                      |
-| Endpoint / UEM / MDM Solutions & Security | Intune, Group Policy, Registry                                                                                          |
-| Network Security Solutions                | Pfsense, Meraki, Sonicwall, IDS/IPS, DNS, IPSEC, VPN, SD-WAN                                                            |
-| EDR / MDR Solutions                       | Blackpoint, SentinalOne, MSFT Defender                                                                                  |
-| RMM Tools                                 | Labtech, ScreenConnect, TacticalRMM, RustDesk                                                                           |
+| Solution Type                             | Technology Stack(s)                                                                                                   |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Azure                                     | Subscriptions & Billing, Virtual Machines, VNET, VNG, VWAN, Storage Accounts, Automation Accounts, Log Analytics      |
+| Domain                                    | Entra ID, Active Directory, Entra ID Domain Services                                                                  |
+| Virtual Desktops                          | AVD, RDS, RDG                                                                                                         |
+| Identity Solutions & Security             | MFA, PIM/PAM, IAM, NPS, MFA, SAML                                                                                     |
+| Email Solutions & Security                | MSFT Defender, ATP, SPF/DKIM/DMARC, Exchange Online                                                                   |
+| Endpoint / UEM / MDM Solutions & Security | Intune, Group Policy, Registry                                                                                        |
+| Network Security Solutions                | Pfsense, Meraki, Sonicwall, IDS/IPS, DNS, IPSEC, VPN, SD-WAN                                                          |
+| EDR / MDR Solutions                       | Blackpoint, SentinalOne, MSFT Defender                                                                                |
+| RMM Tools                                 | Labtech, ScreenConnect, TacticalRMM, RustDesk                                                                         |
 | Web Hosting                               | Linux, [Reverse Proxies](knowledge_base/web_hosting/configure-https-with-a-reverse-proxy-using-pfsense.md), Wordpress |
-| Data Hosting & Access Solutions           | SharePoint Online, File Shares, Azure Files                                                                             |
-| BCDR                                      | Azure Backup Suite, Axcient, Skykick                                                                                    |
-| Microsoft 365 Suite                       | Defender, Purview, Exchange, Entra, M365, SharePoint, Power Platform, etc                                               |
-| Data Loss Prevention                      | Microsoft Purview                                                                                                       |
-| Scripting                                 | PowerShell, Microsoft Graph                                                                                             |
-| Monitoring                                | Azure Monitor, Lionguard, Zabbix                                                                                        |
-|                                           |                                                                                                                         |
+| Data Hosting & Access Solutions           | SharePoint Online, File Shares, Azure Files                                                                           |
+| BCDR                                      | Azure Backup Suite, Axcient, Skykick                                                                                  |
+| Microsoft 365 Suite                       | Defender, Purview, Exchange, Entra, M365, SharePoint, Power Platform, etc                                             |
+| Data Loss Prevention                      | Microsoft Purview                                                                                                     |
+| Scripting                                 | PowerShell, Microsoft Graph                                                                                           |
+| Monitoring                                | Azure Monitor, Lionguard, Zabbix                                                                                      |
+|                                           |                                                                                                                       |
 
 
