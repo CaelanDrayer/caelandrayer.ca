@@ -14,7 +14,7 @@ published:
 comments: true
 ---
 
-This is a primer on the core components of email - with a handy little sequence diagram to walk you through the parts. 
+This is a primer on the core components of email - with a handy sequence diagram to walk you through the parts. 
 
 # Email Authentication
 
@@ -51,7 +51,7 @@ sequenceDiagram
   participant SMS as Sending Mail Server
   end
   participant DNS as DNS Records
-  box Reciever
+  box Receiver
   participant RMS as Recieving Mail Server
   actor RUser as Recieving User
   end
@@ -65,7 +65,7 @@ sequenceDiagram
   autonumber 3
   SMS ->> SMS: Authentication pass
   SMS ->> DNS: Get MX record for recipient
-  Note over SMS: Who should recieve this mail?
+  Note over SMS: Who should Receive this mail?
   DNS ->> SMS: Return MX record
   SMS ->> RMS: Send mail to recipient mail servers
   Note over SMS: Sign mail header with DKIM private key
@@ -96,6 +96,6 @@ sequenceDiagram
   end
   autonumber 15
   RMS ->> RMS: Authentication pass
-  RMS ->> RUser: Recieve the Senders mail
+  RMS ->> RUser: Receive the Senders mail
 ```
 
