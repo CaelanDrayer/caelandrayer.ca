@@ -60,7 +60,7 @@ I am a big big fan of simplicity. If something is not simple (and thus unclear) 
 #####  Traffic Flow   
 
 This diagram is intended to give you a rough idea of the flow of traffic once setup:
-![reverse proxy flow](attachments/reverse%20proxy%20flow.svg)
+![reverse proxy flow](attachments/reverse_proxy_flow_01.svg)
 *(Keep in mind this diagram is intended to illustrate the items configured as a part of this document - and not intended as a true technical reference)*
 
 ## Public DNS Records
