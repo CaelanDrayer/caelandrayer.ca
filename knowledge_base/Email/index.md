@@ -42,6 +42,13 @@ There are a 4 key components of modern email authentication - and all of them sh
 | DKIM    | DomainKeys Identified Mail                                  | [RFC6376](https://www.rfc-editor.org/rfc/rfc6376.html) | Using public-key cryptography, a sending mail server will sign the header of an email. The public DKIM record is then used by the receiver to check the signature & ensure the mail is legitimate/the untouched in transit |     |
 | DMARC   | Domain-based Message Authentication, Reporting, Conformance | [RFC7489](https://www.rfc-editor.org/rfc/rfc7489.html) | This instructs mail receivers on what to do with mail that does not pass SPF/DKIM                                                                                                                                          |     |
 
+> [!caution] Okay, I have all these setup. Is that enough?
+> If you are trying to send mail? Yep! 
+> 
+> If you are receiving mail? Nope! 
+> 
+> This just ensures that mail is authentic - It doesnt check if it is spam/phishing/malware etc. You will need to configure additional protections for that. 
+
 Sequence workflow to help illustrate what happens when:
 ```mermaid
 sequenceDiagram
