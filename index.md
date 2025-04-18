@@ -1,8 +1,9 @@
 ---
-title: About Me
+title: About me
 draft: false
 tags:
-  - aboutme
+  - About
+  - Caelan
 aliases:
   - About Me
 description: Homepage & About ME
