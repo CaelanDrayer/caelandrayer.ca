@@ -27,7 +27,7 @@ Email Authentication is the methods in which we ensure that the email being sent
 > 
 > Congratulations! You are now spoofing an email address. 
 > 
-> While it would generally require a step or two more to actually work - in concept, this is all that is required. 
+> *While it would actually require a step or two more to actually work - in concept this is all that is required.* 
  
 > [!hint]+ Email Authentication Best Practices
 > The "Messaging, Malware and Mobile Anti-Abuse Working Group" (M3AAWG)  have a very comprehensive guide on best practices for email authentication. Take a read!
