@@ -18,4 +18,5 @@ comments: true
 # Web Hosting
 [Configuring HTTPS with a reverse proxy using pfSense](web_hosting/configure-https-with-a-reverse-proxy-using-pfsense.md) 
 
-# [Email](Email/index.md)
+# Email
+[Email Flow](Email/index.md)
