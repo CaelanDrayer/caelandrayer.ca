@@ -37,7 +37,7 @@ A few years later, I have established myself as a Solutions Architect, though ti
 
 ## Testimonials
 
-> [!check]- [Garett Hessels](https://www.linkedin.com/in/garett-hessels-178117264/)
+> [!check]- [Garett Hessels](https://www.linkedin.com/in/garett-hessels-178117264/) - Coworker
 > I have worked with Caelan for several years and known him for even longer. He is an excellent mentor and is always sharing his knowledge and expertise to guide me in my technical development.
 
 ## Business Highlights
