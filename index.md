@@ -35,6 +35,10 @@ A few years later, I have established myself as a Solutions Architect, though ti
 > 
 > If there is something you are curious about and would like some documentation on - let me know!
 
+## Testimonials
+
+> [!check]- [Garett Hessels](https://www.linkedin.com/in/garett-hessels-178117264/)
+> I have worked with Caelan for several years and known him for even longer. He is an excellent mentor and is always sharing his knowledge and expertise to guide me in my technical development.
 
 ## Business Highlights
 
@@ -75,12 +79,12 @@ Recognized by clients for my ability to clearly & effectively communicate & hand
 | Domain                                                      | Entra ID, Active Directory, Entra ID Domain Services                                                                  |
 | Virtual Desktops                                            | AVD, RDS, RDG                                                                                                         |
 | Identity Solutions & Security                               | MFA, PIM/PAM, IAM, NPS, MFA, SAML                                                                                     |
-| [Email Solutions & Security](knowledge_base/Email/index.md) | MSFT Defender, ATP, SPF/DKIM/DMARC, Exchange Online                                                                   |
+| [Email Solutions & Security](kb/Email/index.md) | MSFT Defender, ATP, SPF/DKIM/DMARC, Exchange Online                                                                   |
 | Endpoint / UEM / MDM Solutions & Security                   | Intune, Group Policy, Registry                                                                                        |
 | Network Security Solutions                                  | Pfsense, Meraki, Sonicwall, IDS/IPS, DNS, IPSEC, VPN, SD-WAN                                                          |
 | EDR / MDR Solutions                                         | Blackpoint, SentinalOne, MSFT Defender                                                                                |
 | RMM Tools                                                   | Labtech, ScreenConnect, TacticalRMM, RustDesk                                                                         |
-| Web Hosting                                                 | Linux, [Reverse Proxies](knowledge_base/web_hosting/configure-https-with-a-reverse-proxy-using-pfsense.md), Wordpress |
+| Web Hosting                                                 | Linux, [Reverse Proxies](kb/web_hosting/configure-https-with-a-reverse-proxy-using-pfsense.md), Wordpress |
 | Data Hosting & Access Solutions                             | SharePoint Online, File Shares, Azure Files                                                                           |
 | BCDR                                                        | Azure Backup Suite, Axcient, Skykick                                                                                  |
 | Microsoft 365 Suite                                         | Defender, Purview, Exchange, Entra, M365, SharePoint, Power Platform, etc                                             |

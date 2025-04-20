@@ -8,9 +8,9 @@ created: 2025-04-13  15:01
 modified: 2025-04-14  06:35
 ---
  
-Hi! This github repo links into https://caelandrayer.ca -- best viewed there!
+Hi! This github repo links contains https://caelandrayer.ca -- best viewed there!
 
-Maybe take a look and learn [about me](index.md)
+Take a look and learn [about me ](https://caelandrayer.ca)
 
-Otherwise, I have been creating a bit of a knowledge base -- take  look!
+Otherwise, I have been creating a bit of a [knowledge base](https://caelandrayer.ca/kb/) -- take a look!
 
