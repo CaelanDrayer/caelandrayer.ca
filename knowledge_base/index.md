@@ -20,3 +20,6 @@ Welcome to my knowledge base! Adding bits and pieces here as I go along. Have so
 
 # Email
 [Email Overview](Email/index.md)
+
+# Intune
+[Intune Overview](Intune/index.md)

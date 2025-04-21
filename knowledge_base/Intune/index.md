@@ -11,7 +11,8 @@ tags:
   - Device
   - Management
   - Microsoft
-aliases: 
+aliases:
+  - Intune Overview
 description: An overview into Intune.
 permalink: 
 enableToc: true
