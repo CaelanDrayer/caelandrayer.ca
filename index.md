@@ -23,7 +23,7 @@ Nice to see you here. I am Caelan, a technology professional based in Vancouver.
 
 Like many people in tech, I have been tinkering my whole life. From a very young age I was happily doing things like getting Linux distributions running (cutting my teeth on things like [LFS](https://www.linuxfromscratch.org/)) to hosting my own services.   
 
-I coached Competitive Gymnastics for a bit over 10 years, however when COVID came around it made that field of work a challenge. It was at this point I switched to working in tech.   
+I coached competitive gymnastics for a bit over 10 years, however when COVID came around it made that field of work a challenge. It was at this point I switched to working in tech.   
 
 A few years later, I have established myself as a Solutions Architect, though titles like Senior Systems Administrator/Engineer, Cloud Administrator/Engineer, Projects Engineer, Sales Engineer, and others in that vein would also be appropriate - I find myself wearing a lot of hats in my daily work.   
 
