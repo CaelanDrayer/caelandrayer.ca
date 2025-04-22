@@ -161,7 +161,7 @@ registry-r0 -->script-q0
 
 %% Config -  Other
 registry-q0 -->|No|other-q0{"Not listed?"}
-other-q0 -->|Yes|settingsCatalog-r0["Please reach out!"]
+other-q0 -->|Yes|other-r0["Please reach out!"]
 ```
 
 
