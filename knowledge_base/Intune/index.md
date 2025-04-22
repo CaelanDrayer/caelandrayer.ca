@@ -101,7 +101,7 @@ firewall-q0 -->|Yes| firewall-r0["Endpoint Security/Firewall"]
 
 %% Config -  edr
 firewall-q0 -->|No|edr-q0{"Relating to MSFT EDR Enrollment?"}
-firewall-q0 -->|Yes| edr-r0["Endpoint Security/Endpoint Detection & Response"]
+edr-q0 -->|Yes| edr-r0["Endpoint Security/Endpoint Detection & Response"]
 
 %% Config -  ASR
 firewall-q0 -->|No|asr-q0{"Relating to ASR?"}
@@ -161,7 +161,7 @@ registry-r0 -->script-q0
 
 %% Config -  Other
 registry-q0 -->|No|other-q0{"Not listed?"}
-settingsCatalog-q0 -->|Yes|settingsCatalog-r0["Please reach out!"]
+other-q0 -->|Yes|settingsCatalog-r0["Please reach out!"]
 ```
 
 
