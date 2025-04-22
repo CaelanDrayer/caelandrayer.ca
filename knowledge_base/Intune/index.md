@@ -71,7 +71,7 @@ start -->script("Run a script")
 script --> script-q0{"Do you need to validate script success?"}
 script-q0 -->|No|script-q1{"Does it need to run more than once?"}
 script-q1 -->|No|platformscript["Platform Script"]
-script-q0 & script-q1 -->|Yes|win32
+script-q0 & script-q1 ---->|Yes|win32
 
 %% Compliance
 start --> compliance("Monitor something")
