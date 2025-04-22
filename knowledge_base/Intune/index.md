@@ -55,13 +55,15 @@ flowchart TD
 start{"What are you trying to do?"} 
 
 %% Applications
-start -->|Deploy an application|app-q0{"App available on Microsoft Store(new)?"}
+start --> app["Deploy an application"]
+app --> app-q0{"App available on Microsoft Store(new)?"}
+app-q0 -->|Yes|app-r0["Deploy as Microsoft Store app"]
 app-q0 -->|No|win32["Package as win32/intunewin & deploy as app"]
 
 %% Printers
 start -->|Push out Printers|print-q0{"Are you using a custom/3rd party print solution?"}
-printers-q0 -->|Yes|printers-r0["Follow instructions from vendor"]
-printers-q0 -->|No|printers-r1["Package driver & install script & deploy as app"] --> win32
+print-q0 -->|Yes|print-r0["Follow instructions from vendor"]
+print-q0 -->|No|print-r1["Package driver & install script & deploy as app"] --> win32
 
 %% Scripts
 start -->|Run a script|script-q0{"Do you need to validate script success?"}
