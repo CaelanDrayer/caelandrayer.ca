@@ -55,30 +55,34 @@ flowchart TD
 start{"What are you trying to do?"} 
 
 %% Applications
-start --> app["Deploy an application"]
+start --> app("Deploy an application")
 app --> app-q0{"App available on Microsoft Store(new)?"}
 app-q0 -->|Yes|app-r0["Deploy as Microsoft Store app"]
 app-q0 -->|No|win32["Package as win32/intunewin & deploy as app"]
 
 %% Printers
-start -->|Push out Printers|print-q0{"Are you using a custom/3rd party print solution?"}
+start --> print("Push out Printers")
+print --> print-q0{"Are you using a custom/3rd party print solution?"}
 print-q0 -->|Yes|print-r0["Follow instructions from vendor"]
 print-q0 -->|No|print-r1["Package driver & install script & deploy as app"] --> win32
 
 %% Scripts
-start -->|Run a script|script-q0{"Do you need to validate script success?"}
+start -->script("Run a script")
+script --> script-q0{"Do you need to validate script success?"}
 script-q0 -->|No|script-q1{"Does it need to run more than once?"}
 script-q1 -->|No|platformscript["Platform Script"]
 script-q0 & script-q1 -->|Yes|win32
 
 %% Compliance
-start -->|Monitor something|compliancenotif-q0{"What do you want to monitor?"}
+start --> compliance("Monitor something")
+compliance --> compliancenotif-q0{"What do you want to monitor?"}
 compliancenotif-q0 -->|Simple Setting|compliancenotif-r0["Compliance Policy"]
 compliancenotif-q0 -->|Custom Setting|compliancenotif-r1["Compliance Policy Script"]
 compliancenotif-q0 -->|Other|compliancenotif-r2["Scheduled Task via Packaged Script"] --> win32
 
 %% Config - Encryption
-start -->|Change a setting|encryption-q0{"Relating to encryption?"}
+start --> setting("Change a setting")
+setting-->encryption-q0{"Relating to encryption?"}
 encryption-q0 -->|Yes| encryption-r0["Endpoint Security/Disk Encyption"]
 
 %% Config - AntiVirus
