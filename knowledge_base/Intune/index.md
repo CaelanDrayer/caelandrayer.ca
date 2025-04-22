@@ -45,9 +45,8 @@ One of the key issues I have noted working with others in Intune - is the overal
 
 > [!faq]-  This flowchart is a continual work in progress. Have something you aren't sure about how to achieve via Intune? Ask! I will happily add it in. 
 
-> [!tip]- Welcome, to what is quite frankly a ridiculous flowchart. Happily - you can search it with CTRL-F.
-> You can use Shift+MouseWheel or Num+/- to zoom 
-> You when zoomed in; Shift-Click to pan
+> [!tip]+ Welcome, to what is quite frankly a ridiculous flowchart. Happily - you can search it with CTRL-F. 
+ > You can use Shift+MouseWheel or Num+/- to zoom | when zoomed in; Shift-Click to pan
 
 
 ```mermaid
