@@ -66,9 +66,15 @@ print --> print-q0{"Are you using a custom/3rd party print solution?"}
 print-q0 -->|Yes|print-r0["Follow instructions from vendor"]
 print-q0 -->|No|print-r1["Package driver & install script & deploy as app"] --> win32
 
+%% Updates
+start --> update("Configure Windows Update")
+update --> update-q0{"General update settings?"}
+update-q0 -->|Yes| update-r0["Devices/Update Rings"]
+update-q0 -->|No| update-r1["Devices/Feature Updates<br>Devices/Quality Updates"]
+
 %% Scripts
 start -->script("Run a script")
-script --> script-q0{"Do you need to validate script success?"}
+script -->script-q0{"Do you need to validate script success?"}
 script-q0 -->|No|script-q1{"Does it need to run more than once?"}
 script-q1 -->|No|platformscript["Platform Script"]
 script-q0 & script-q1 ---->|Yes|win32
@@ -148,10 +154,14 @@ customADMX-q0 -->|Yes|customADMX-r0["Devices/Configuration<br>profile template/I
 customADMX-q0 -->|No|settingsCatalog-q0{"Is this setting in the Settings Catalog?"}
 settingsCatalog-q0 -->|Yes|settingsCatalog-r0["Devices/Configurations/Settings catalog"]
 
-%% Config -  Settings Catalog
+%% Config -  registry
 settingsCatalog-q0 -->|No|registry-q0{"Is this a registry edit?"}
 registry-q0 -->|Yes|registry-r0("Deploy as platform script")
 registry-r0 -->script-q0
+
+%% Config -  Other
+registry-q0 -->|No|other-q0{"Not listed?"}
+settingsCatalog-q0 -->|Yes|settingsCatalog-r0["Please reach out!"]
 ```
 
 
