@@ -144,10 +144,11 @@ the "Address" field should be the LAN/Local IP of the service
 
 the "Port" field is the port the service is listening on
 
-![backend](attachments/backend.png)]
+![backend](attachments/backend.png)
+Also enable HSTS here (more details later on this - we are doubling up on this setting):
+![](attachments/backend_hsts.png)
 
 > [!tip] Every unique service will require its own unique backend
-
 
 ### Configure HAProxy HTTP Frontend to Redirect to HTTPS
 
