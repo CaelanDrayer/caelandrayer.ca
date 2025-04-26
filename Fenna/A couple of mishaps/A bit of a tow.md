@@ -9,7 +9,7 @@ This yacht has hydraulic winches & furlers. We had tested these before we went o
 We managed to get the main sail in. Then we tried to get the Genoa in. This was when we learned that the furler for the foresail that should have wrapped the Genoa nicely around the forestay - was completely broken. With no engine, no hydraulics, no manual overrides, and a massive Genoa flapping about in decent winds; we decided discretion was the greater part of valor - and called for a tow in.
 
 You can see our awkward drift & zigzag here:
-![](attachments/whoops.jpg)
+![whoops](Fenna/attachments/whoops.jpg)
 
 For the engine, it turns out that the switch that controlled the pump for the day tank had stopped working. This tank then emptied and the whole system ran dry. There is supposed to be an alarm for this (we have the manual for the alarm, a hand drawn diagram & everything...), however I suspect that this mythical alarm is aspirational at best. You are also supposed to be able to flip two handles and have it roll over to the main tank. The challenge here is that you need to bleed the system. By the manual, there is a tiny little lever on the lift pump that you can use to bleed the system. In practice - this is ineffective. We later had a local mechanic show us a trick - if you use the starter, it will run the lift pump - Just be careful not to burn out your starter motor. 
 
