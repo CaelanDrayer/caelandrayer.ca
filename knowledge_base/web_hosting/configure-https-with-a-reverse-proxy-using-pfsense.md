@@ -168,6 +168,7 @@ In the advanced settings, we are going to configure HSTS (and a couple other sec
 
 > [!danger] These settings can and will break things. This is an example. Open up the devtools on your site (typically f12), inspect for errors and solve.  Note that each browser will react differently. 
 
+![Pasted image 20250424062021](attachments/Pasted%20image%2020250424062021.png)]
 ```
 http-response set-header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
 http-response add-header Content-Security-Policy "default-src 'self'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self'; frame-ancestors 'self'; form-action 'self'; base-uri 'none'"
