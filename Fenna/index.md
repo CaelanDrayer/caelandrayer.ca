@@ -26,10 +26,3 @@ It took years of searching for him to find one that was a mixture of the right t
 This Nordia 49 Cruiser was built in 1993 by Van-Damme Nordia Yachts. Designed by Robert Van-Damme, she was originally called Natryna. Renamed to Ricercare around 2003 when she was purchased by a Dutch gentleman named Henk, she spent almost 20 years under his care - before at age 84 he decided it was time to part ways with her. 
 ![](attachments/ricercare_bow.jpg)
 ![](attachments/ricercare_stern.jpg)
-
-
-[On the hard](On%20the%20hard.md)
-[On the water](On%20the%20water.md)
-[A couple of mishaps](A%20couple%20of%20mishaps.md)
-[Gallery](Gallery.md)
-[Time to return home](Time%20to%20return%20home.md)
