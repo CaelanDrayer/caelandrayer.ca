@@ -166,22 +166,23 @@ the "Port" field is the port the service is listening on
 
 In the advanced settings, we are going to configure HSTS (and a couple other security settings). 
 
+> [!danger] These settings can and will break things. This is an example. Open up the devtools on your site (typically f12), inspect for errors and solve.  Note that each browser will react differently. 
+
 ```
 http-response set-header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
-http-response add-header Content-Security-Policy "default-src 'none'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self'; frame-ancestors 'self'; form-action 'self'; base-uri'none'"
+http-response add-header Content-Security-Policy "default-src 'self'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self'; frame-ancestors 'self'; form-action 'self'; base-uri 'none'"
 http-response add-header X-Frame-Options "DENY"
 http-response add-header X-XSS-Protection "0"
+http-response add-header Content-Type "text/html; charset=UTF-8"
 http-response add-header X-Content-Type-Options "nosniff"
 http-response add-header Referrer-Policy "strict-origin-when-cross-origin"
-http-response add-header Content-Type "text/html; charset=UTF-8"
 http-response add-header Cross-Origin-Opener-Policy "same-origin"
 http-response add-header Cross-Origin-Embedder-Policy "same-site"
 http-response add-header Cross-Origin-Resource-Policy "same-site"
 http-response add-header Permissions-Policy "geolocation=(), camera=(), microphone=()"
 ```
 
-
-> [!info]- These are secure defaults. Some info can be found at the links here:
+> [!info]- These settings are just some some starting defaults - these can and should be improved! These settings should be tailored to each site. Some info can be found at the links here:
 > https://developer.mozilla.org/en-US/docs/Web/Security/Practical_implementation_guides
 > https://infosec.mozilla.org/guidelines/web_security#https
 > https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html
