@@ -121,6 +121,24 @@ This is the address that we will have HAProxy listen to requests on. This virtua
 
 We are going to want to create the NAT rules / Port forwards for ports 80/443 and send them to the virtual IP configured above
 
+> [!faq]+ Why don't we just block HTTP Traffic?   
+> In this day and age HTTP should not be used. You also don't really want clients able to connect over HTTP. Which then raises the question - why don't we just block HTTP?
+> 
+> If you type "caelandrayer.ca" into a browser, it can default to HTTP. End-users are unlikely to have a firm understanding of this behaviour, and just believe the site to be down/broken. Redirecting ensuring that no matter how users access your site - they end up in the right place.
+> 
+> While this is less of an issue nowadays, there also are some API/SEO things that would be impacted.
+
+> [!faq]+ Okay, I have HTTP redirected - Does that mean I am safe?
+> Nope! Unfortunately there is still a risk here. Since the user is connecting without a certificate initially, there is a chance something like a MiTM attack could do something malicous.
+>
+> To mitigate as much of that risk as we can, we use HSTS:
+>- [https://hstspreload.org/](https://hstspreload.org/)
+>- [https://www.haproxy.com/blog/haproxy-and-http-strict-transport-security-hsts](https://www.haproxy.com/blog/haproxy-and-http-strict-transport-security-hsts)
+>
+>We configure this below in the HTTPS Backend actions.
+
+
+
 ![portforward](attachments/portforward.png)
 
 This will automatically generate two filter rules for you on the WAN interface:
@@ -145,8 +163,35 @@ the "Address" field should be the LAN/Local IP of the service
 the "Port" field is the port the service is listening on
 
 ![backend](attachments/backend.png)
-Also enable HSTS here (more details later on this - we are doubling up on this setting):
-![](attachments/backend_hsts.png)
+
+In the advanced settings, we are going to configure HSTS (and a couple other security settings). 
+
+```
+http-response set-header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+http-response add-header Content-Security-Policy "default-src 'none'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self'; frame-ancestors 'self'; form-action 'self'; base-uri'none'"
+http-response add-header X-Frame-Options "DENY"
+http-response add-header X-XSS-Protection "0"
+http-response add-header X-Content-Type-Options "nosniff"
+http-response add-header Referrer-Policy "strict-origin-when-cross-origin"
+http-response add-header Content-Type "text/html; charset=UTF-8"
+http-response add-header Cross-Origin-Opener-Policy "same-origin"
+http-response add-header Cross-Origin-Embedder-Policy "same-site"
+http-response add-header Cross-Origin-Resource-Policy "same-site"
+http-response add-header Permissions-Policy "geolocation=(), camera=(), microphone=()"
+```
+
+
+> [!info]- These are secure defaults. Some info can be found at the links here:
+> https://developer.mozilla.org/en-US/docs/Web/Security/Practical_implementation_guides
+> https://infosec.mozilla.org/guidelines/web_security#https
+> https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html
+> https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Headers_Cheat_Sheet.html
+> https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html
+
+> [!faq]- Why in the backend?
+> The easiest location to inject these headers is the backend (adding to frontend is also possible - but you cant copy & paste in those fields (actions)
+> Also, different sites may require different settings. 
+> 
 
 > [!tip] Every unique service will require its own unique backend
 
@@ -167,26 +212,6 @@ The settings do the following:
 [https://www.haproxy.com/blog/redirect-http-to-https-with-haproxy](https://www.haproxy.com/blog/redirect-http-to-https-with-haproxy)
 
 
-
-> [!faq]+ Why don't we just block HTTP Traffic?   
-> In this day and age HTTP should not be used. You also don't really want clients able to connect over HTTP. Which then raises the question - why don't we just block HTTP?
-> 
-> If you type "caelandrayer.ca" into a browser, it can default to HTTP. End-users are unlikely to have a firm understanding of this behaviour, and just believe the site to be down/broken. Redirecting ensuring that no matter how users access your site - they end up in the right place.
-> 
-> While this is less of an issue nowadays, there also are some API/SEO things that would be impacted.
-
-> [!faq]+ Okay, I have HTTP redirected - Does that mean I am safe?
-> Nope! Unfortunately there is still a risk here. Since the user is connecting without a certificate initially, there is a chance something like a MiTM attack could do something malicous.
->
-> To mitigate as much of that risk as we can, we use HSTS:
->- [https://hstspreload.org/](https://hstspreload.org/)
->- [https://www.haproxy.com/blog/haproxy-and-http-strict-transport-security-hsts](https://www.haproxy.com/blog/haproxy-and-http-strict-transport-security-hsts)
->
->We configure this below in the HTTPS Fronted actions.
-
-
-
-
 ### Configure HAProxy HTTPS Frontend
 
 This is the Frontend set to to handle all incoming HTTPS traffic
@@ -198,11 +223,6 @@ Then, you will need to configure an Access control list (ACL). It can be thought
 Create an action. When traffic matches an ACL rule (The ACL rule name from above and "Condition acl names" field must be exact matches), it will apply the action described. In this case, we are telling it to "Use Backend"" "caelandrayer.ca".
 
 ![https_frontend_action](attachments/https_frontend_action.png)
-You will then ALSO need to create an HSTS header:
-
-name= `Strict-Transport-Security`  
-fmt= `"max-age=16000000; includeSubDomains; preload;"`
-![https_frontend_hsts](attachments/https_frontend_hsts.png)
 
 > [!tip] Every unique service will require their own ACL rule & action
 
@@ -230,3 +250,9 @@ Confirm the following, and you should be done!
 
 - Does it redirect from HTTP to HTTPS?
 - Does it provide a valid certificate?
+
+Okay, that works. Now lets get it tested externally. 
+
+First get it scanned by Mozilla - https://developer.mozilla.org/en-US/observatory
+
+Then, we can have it added to the hsts preload - https://hstspreload.org/
