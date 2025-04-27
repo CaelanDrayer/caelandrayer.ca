@@ -15,8 +15,8 @@ hide:
   - toc
 ---
 
-[launch_day](launch_day.md)
+[launch day](launch_day.md)
 
-[on_the_water](on_the_water.md)
+[on the water](on_the_water.md)
 
-[time_to_return_home](time_to_return_home.md)
+[time to return home](time_to_return_home.md)

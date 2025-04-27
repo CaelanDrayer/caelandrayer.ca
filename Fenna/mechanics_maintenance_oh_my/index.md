@@ -16,8 +16,8 @@ hide:
 ---
 
 
-[immediately_put_to_work](immediately_put_to_work.md)
+[immediately put to work](immediately_put_to_work.md)
 
-[an_oily_situation](an_oily_situation.md)
+[an oily situation](an_oily_situation.md)
 
-[throttle_not_connected](throttle_not_connected.md)
+[throttle not connected](throttle_not_connected.md)
