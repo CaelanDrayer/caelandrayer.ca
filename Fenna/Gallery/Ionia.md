@@ -11,13 +11,13 @@ created: 2025-04-13  15:01
 modified: 2025-04-13  16:20
 published: 
 comments: true
-hide: []
+hide:
 ---
 
-![](attachments/gallery/lightblue_birds.jpg)
+![](attachments/lightblue_birds.jpg)
 
-![bluewaters](attachments/gallery/bluewaters.jpg)
+![bluewaters](attachments/bluewaters.jpg)
 
-![bluewaters1](attachments/gallery/bluewaters1.jpg)
+![bluewaters1](attachments/bluewaters1.jpg)
 
-![lightbluewaters](attachments/gallery/lightbluewaters.jpg) 
+![lightbluewaters](attachments/lightbluewaters.jpg) 
