@@ -20,10 +20,10 @@ With that - the boat goes back up! We will be back next year (2025) to continue 
 
 
 
-![](attachments/bluewaters.jpg)
+![](../attachments/gallery/bluewaters.jpg)
 
 ![](attachments/IMG_3553.jpg)
 
 ![](attachments/IMG_3672.jpg)
 
-![](attachments/bluewaters1.jpg)
+![](../attachments/gallery/bluewaters1.jpg)

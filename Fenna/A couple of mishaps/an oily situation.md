@@ -32,4 +32,3 @@ The worst problem however, was that it seemed like every single gasket had simul
 You can imagine my surprise when I was attempted to maneuver to anchor - and the throttle no longer does anything. Happily - I was right near the anchorage at this point. A bit of inertia, a bit of the bow thruster, and I managed to get an "alright" spot. Only mildly stressful - especially considering the Greek coast guard was right in front of us dealing with another boat who was "in the fish" a moment prior. 
 
 The oil had leaked onto the linkage, and had slowly come out. A couple twists of the wrench - and the throttle was back in action. Happily a quick fix. 
-![](attachments/shift_linkage.jpg)
