@@ -15,7 +15,7 @@ hide:
 ---
 
 
-[Prep is 75% of the work](Prep%20is%2075%%20of%20the%20work.md)
+[immediately_put_to_work](immediately_put_to_work.md)
 
 [an_oily_situation](an_oily_situation.md)
 
