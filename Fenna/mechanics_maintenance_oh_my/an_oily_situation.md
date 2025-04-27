@@ -22,7 +22,7 @@ One of the first bits of maintenance we did was an overhaul of the generator. It
 This turned out to be a mistake. Almost immediately, it proved to be troublesome. The diesel lines in kept sucking air - causing it to shut off randomly. The filters that had been left with the boat didn't fit quite right - causing an oily mess. 
 
 
-![IMG_6358](attachments/oilfilter_overflow.jpg)
+![IMG_6358](../a_couple_of_mishaps/attachments/oilfilter_overflow.jpg)
 The worst problem however, was that it seemed like every single gasket had simultaneously failed. The generator now had a slow, consistent leak - with the core of it being between the dynamo & the engine block. This generator was a large, bulky thing - near impossible to properly work, even in our admittedly large engine room. This oil leak caused other problems as well. Right below the generator - and more importantly below a hole in its catch pan lives the shift linkage for the main engine. 
 
-[typically, the throttle is connected to the engine](typically,%20the%20throttle%20is%20connected%20to%20the%20engine.md)
+[throttle_not_connected](throttle_not_connected.md)

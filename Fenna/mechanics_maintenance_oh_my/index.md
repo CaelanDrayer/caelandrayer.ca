@@ -17,3 +17,6 @@ hide:
 
 [Prep is 75% of the work](Prep%20is%2075%%20of%20the%20work.md)
 
+[an_oily_situation](an_oily_situation.md)
+
+[throttle_not_connected](throttle_not_connected.md)

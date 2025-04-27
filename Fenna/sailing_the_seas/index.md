@@ -14,8 +14,8 @@ comments: true
 hide:
 ---
 
-[launch day](launch%20day.md)
+[launch_day](launch_day.md)
 
-[on the water](on%20the%20water.md)
+[on_the_water](on_the_water.md)
 
-[time to return home](time%20to%20return%20home.md)
+[time_to_return_home](time_to_return_home.md)
