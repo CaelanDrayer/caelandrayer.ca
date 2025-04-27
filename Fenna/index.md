@@ -18,7 +18,7 @@ hide: toc
 ---
 # Fenna
 
-My father grew up in the Netherlands & England where sailing was a pastime of his. Going right from high school into naval college, ending up in the merchant marine as a radio officer - where he then travelled around the world.  One port of call he happened upon was Vancouver, Canada. This would be an important place, as in 1993 he immigrated there my mother. Apparently the options were either that or Sydney, Australia - but the spiders down under were a no from my mom.
+My father grew up in the Netherlands & England where sailing was a pastime of his. Going right from high school into naval college, ending up in the merchant marine as a radio officer - where he then travelled around the world.  One port of call he happened upon was Vancouver, Canada. This would be an important place, as in 1993 he immigrated there with my mother. Apparently the options were either that or Sydney, Australia - but the spiders down under were a no from my mom.
 
 Thus, Vancouver - the place I was born and raised (and continue to call home!). This was where my father built a company, which he grew enough to make selling it & retiring feasible. His final meeting at the company he changed his background to a tropical beach - mentioning he was going to be off in the Caribbean - on a yacht. Thus began his search for an appropriate vessel.
 
