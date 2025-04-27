@@ -13,9 +13,7 @@ published:
 comments: true
 hide:
 ---
-## You cant park here
 Unlike a car, boats tend to move - even when parked. This turned out to be a rather fun challenge - how & where do you place your boat in the busy anchorages off the coast of Greece. 
-
 ### Lakka
 The town of Lakka, on the island of Paxos is gorgeous. It is every bit an idyllic seaside town. It is a great anchorage, and very conveniently placed between the larger towns of Preveza/Lefkada & Corfu.  
 
