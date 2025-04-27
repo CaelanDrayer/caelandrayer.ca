@@ -24,4 +24,4 @@ This turned out to be a mistake. Almost immediately, it proved to be troublesome
 ![IMG_6358](../a_couple_of_mishaps/attachments/oilfilter_overflow.jpg)
 The worst problem however, was that it seemed like every single gasket had simultaneously failed. The generator now had a slow, consistent leak - with the core of it being between the dynamo & the engine block. This generator was a large, bulky thing - near impossible to properly work on, even in our admittedly large engine room. This oil leak caused other problems as well. Right below the generator - and more importantly below a hole in its catch pan - lives the shift linkage for the main engine. 
 
-This gave us a new problem - the [throttle was no longer connected to the engine](throttle_not_connected.md)
+This gave us a new problem - the [throttle was no longer connected to the engine](shifter_not_connected.md)

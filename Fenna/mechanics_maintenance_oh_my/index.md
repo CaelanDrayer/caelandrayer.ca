@@ -20,4 +20,4 @@ hide:
 
 [an oily situation](an_oily_situation.md)
 
-[throttle not connected](throttle_not_connected.md)
+[throttle not connected](shifter_not_connected.md)
