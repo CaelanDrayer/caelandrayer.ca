@@ -12,9 +12,8 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 hide:
+  - toc
 ---
-# Time to return home
-
 After a whole summer, 1293NM, 131 days, 1 million Greek salads, 2 million souvlakis, and 100 million gyros - it was time to put the boat back up on dry land for the winter. 
 
 Docking a boat is challenging. In this case, you are reversing 23 tons of yacht backwards - and it doesn't go straight. Out boat pulls heavily clockwise when going in reverse. 

@@ -12,6 +12,7 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 hide:
+  - toc
 ---
 Unlike a car, boats tend to move - even when parked. This turned out to be a rather fun challenge - how & where do you place your boat in the busy anchorages off the coast of Greece. 
 ### Lakka

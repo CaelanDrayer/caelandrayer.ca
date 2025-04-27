@@ -12,6 +12,7 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 hide:
+  - toc
 ---
 
 Our next issue was another nuisance - a spun prop on the outboard. It just happened to time itself when I had some guests come by. Not ideal. An easy fix - just had to wait for parts. 

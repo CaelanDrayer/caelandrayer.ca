@@ -12,6 +12,7 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 hide:
+  - toc
 ---
 After an inspection, a bunch of paperwork, and other preparation we arrived in Preveza - ready to get the boat on the water. Almost immediately after we arrived, the size of the task ahead of us began to grow.+. The boat was full of things - parts, tools, and other random items. Removing all of this and cleaning the boat to be comfortable took us over 3 months of work. 
 

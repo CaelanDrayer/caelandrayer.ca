@@ -12,6 +12,7 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 hide:
+  - toc
 ---
 
 [a_bit_of_a_tow](a_bit_of_a_tow.md)]

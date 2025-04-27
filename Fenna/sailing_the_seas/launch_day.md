@@ -12,6 +12,7 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 hide:
+  - toc
 ---
 
 These delays, kerfuffle's, and other items meant that we didn't manage to get onto the water until the following spring. We thought it would be simple... We have been proven wrong about that - consistently. This has led to some interesting moments, though strangely - paperwork was our greatest challenge. Greek bureaucracy is not for the faint of heart. In Canada you can send an email. In Greece you might need to go to different three different towns to talk to five different people to get eight different papers... So that you can get the paper you need to apply to get the paper you actually need. 

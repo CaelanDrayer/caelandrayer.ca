@@ -11,7 +11,8 @@ created: 2025-04-13  15:01
 modified: 2025-04-13  16:20
 published: 
 comments: true
-hide: []
+hide:
+  - toc
 ---
 You can imagine my surprise when I was attempted to maneuver to anchor - and the throttle no longer does anything. Happily - I was right near the anchorage at this point. A bit of inertia, a bit of the bow thruster, and I managed to get an "alright" spot. Only mildly stressful - especially considering the Greek coast guard was right in front of us dealing with another boat who was "in the fish" a moment prior. 
 
