@@ -1,3 +1,18 @@
+---
+title: time to return home
+draft: false
+tags: 
+aliases: 
+description: bringing the boat back onto the hard for the winter
+permalink: 
+enableToc: true
+cssclasses: 
+created: 2025-04-13  15:01
+modified: 2025-04-13  16:20
+published: 
+comments: true
+hide:
+---
 # Time to return home
 
 After a whole summer, 1300NM, 1 57million Greek salads, 2 million souvlakis, and 100 million gyros - it was time to put the boat back up on dry land for the winter. 
@@ -12,18 +27,3 @@ On our boat, reversing means a minimum of three simultaneous actions - throttle,
 
 ![](attachments/endofseason.jpg)
 With that - the boat goes back up! We will be back next year (2025) to continue cruising along. 
-![](attachments/A6B48AB4-5373-4856-8EC4-5FBE4BC42E4D.mp4)
-
-![](attachments/fenna_on_trailer.jpg)
-
-
-
-
-
-![](../attachments/gallery/bluewaters.jpg)
-
-![](attachments/IMG_3553.jpg)
-
-![](attachments/IMG_3672.jpg)
-
-![](../attachments/gallery/bluewaters1.jpg)

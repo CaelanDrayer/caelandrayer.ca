@@ -1,3 +1,18 @@
+---
+title: A bit of a tow
+draft: false
+tags: 
+aliases: 
+description: When everything fails... you might need some help
+permalink: 
+enableToc: true
+cssclasses: 
+created: 2025-04-13  15:01
+modified: 2025-04-13  16:20
+published: 
+comments: true
+hide:
+---
 ## A bit of a tow 
 
 We have had our share of mishaps. We encountered our first - and so far worst calamity very early on. We had been motoring around getting a feel for the yacht - when the engine cut out. No problem, we can troubleshoot that. After about an hour of faffing about - I still couldn't get the engine going. Alright, we can sail it in. Not ideal considering this would be our first time ever properly sailing the boat - but it would work. At a minimum, it will bring us closer to the town where would could ask for assistance. 

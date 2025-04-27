@@ -1,3 +1,18 @@
+---
+title: 
+draft: false
+tags: 
+aliases: 
+description: 
+permalink: 
+enableToc: true
+cssclasses: 
+created: 2025-04-13  15:01
+modified: 2025-04-13  16:20
+published: 
+comments: true
+hide:
+---
 ## You cant park here
 Unlike a car, boats tend to move - even when parked. This turned out to be a rather fun challenge - how & where do you place your boat in the busy anchorages off the coast of Greece. 
 
