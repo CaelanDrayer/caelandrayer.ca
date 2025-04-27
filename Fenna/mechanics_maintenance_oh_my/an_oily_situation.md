@@ -15,7 +15,8 @@ hide:
   - toc
 ---
 
-
+# Oil everywhere....
+ 
 One of the first bits of maintenance we did was an overhaul of the generator. It was in real need of a service - the heat exchanger was completely clogged. The coolant was more particles than liquid, and the rest of it was in a surprisingly rough condition considering it really only had 1300 hours on it. We swapped all the fluids, changed the impeller, gave it a good cleaning - the works. 
 
 This turned out to be a mistake. Almost immediately, it proved to be troublesome. The diesel lines in kept sucking air - causing it to shut off randomly. The filters that had been left with the boat didn't fit quite right - causing an oily mess. 
