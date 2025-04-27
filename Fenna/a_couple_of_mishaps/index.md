@@ -14,10 +14,7 @@ comments: true
 hide:
   - toc
 ---
-
-[a_bit_of_a_tow](a_bit_of_a_tow.md)]
-
-[an_oily_situation](../mechanics_maintenance_oh_my/an_oily_situation.md)
+[a_bit_of_a_tow](a_bit_of_a_tow.md)
 
 [inflatable_no_longer](inflatable_no_longer.md)
 
