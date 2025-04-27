@@ -1,12 +1,18 @@
 ---
-title: A couple of mishaps
-description: Stories about the various mishaps & calamities experienced
-modified: 
-created: 
+title: a couple of mishaps
+draft: false
+tags: 
+aliases: 
+description: stories about mishaps & calamities
+permalink: 
+enableToc: true
+cssclasses: 
+created: 2025-04-13  15:01
+modified: 2025-04-13  16:20
+published: 
 comments: true
+hide:
 ---
-
-# A couple of mishaps
 
 [A bit of a tow](A%20bit%20of%20a%20tow.md)
 
