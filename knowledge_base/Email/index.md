@@ -14,6 +14,7 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 ---
+# Email
 
 This is a primer on the core components of email - with a handy sequence diagram to walk you through the parts. 
 

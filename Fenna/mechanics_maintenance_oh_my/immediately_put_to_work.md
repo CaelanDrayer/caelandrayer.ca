@@ -14,6 +14,9 @@ comments: true
 hide:
   - toc
 ---
+
+# Immediately put to work
+
 After an inspection, a bunch of paperwork, and other preparation we arrived in Preveza - ready to get the boat on the water. Almost immediately after we arrived, the size of the task ahead of us began to grow. The boat was full of things - parts, tools, and other random items. Removing all of this and cleaning the boat to be comfortable took us over 3 months of work. 
 
 In every compartment & drawer, under every sole in every bilge - there were things. So many things. We ran into a rather fun problem - was this component kept because it was a spare? broken? who knows! Another example was the stove - we thought we would need to buy a new one. It was black, and didn't spark or light. We gave it a thorough clean (4 full days work... cleaning a single stove) and it suddenly was back to its shiny stainless steel original self - and sparking again. 

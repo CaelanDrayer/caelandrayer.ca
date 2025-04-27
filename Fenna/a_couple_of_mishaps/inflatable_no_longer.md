@@ -14,6 +14,7 @@ comments: true
 hide:
   - toc
 ---
+# Inflatable no longer
 
 Our next issue was another nuisance - a spun prop on the outboard. It just happened to time itself when I had some guests come by. Not ideal. An easy fix - just had to wait for parts. 
 

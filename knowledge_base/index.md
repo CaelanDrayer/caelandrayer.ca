@@ -13,6 +13,8 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 ---
+# Knowledge base
+
 Welcome to my knowledge base! Adding bits and pieces here as I go along. Have something you are curious about? Let me know!
 
 # Web Hosting

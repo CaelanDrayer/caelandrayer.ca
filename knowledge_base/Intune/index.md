@@ -22,6 +22,7 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 ---
+
 # Preface
 Intune is Microsoft's unified endpoint management solution. It has spent a few years maturing - and really provides a great feature set. Getting the full use of this feature set can be challenging - and some things are not as intuitive as one would like. I have been using Intune daily for almost 5 years; and have fleshed out some method and design considerations to getting things done. 
 

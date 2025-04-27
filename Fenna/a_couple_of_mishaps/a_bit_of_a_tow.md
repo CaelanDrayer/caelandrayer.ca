@@ -14,6 +14,8 @@ comments: true
 hide:
   - toc
 ---
+# A bit of a tow
+
 We have had our share of mishaps. We encountered our first - and so far worst calamity very early on. We had been motoring around getting a feel for the yacht - when the engine cut out. No problem, we can troubleshoot that. After about an hour of faffing about - I still couldn't get the engine going. Alright, we can sail it in. Not ideal considering this would be our first time ever properly sailing the boat - but it would work. At a minimum, it will bring us closer to the town where would could ask for assistance. 
 
 This started just fine, and was actually quite pleasant - a nice 15 knot wind pushing us along. As we got closer to the relatively tight channel, there was a thought - lets just test the process of bringing the sails in. Since we are going to be operating in tight, shallow waters - best we have at least practiced this maneuver. This was when things went from bad to worse. 

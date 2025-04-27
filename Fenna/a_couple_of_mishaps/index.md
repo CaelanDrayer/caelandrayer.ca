@@ -14,6 +14,8 @@ comments: true
 hide:
   - toc
 ---
+# A couple of mishaps
+
 [a bit of a tow](a_bit_of_a_tow.md)
 
 [inflatable no longer](inflatable_no_longer.md)

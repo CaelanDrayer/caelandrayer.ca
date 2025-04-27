@@ -14,6 +14,8 @@ comments: true
 hide:
   - toc
 ---
+# Throttle not connected
+
 You can imagine my surprise when I was attempted to maneuver to anchor - and the throttle no longer does anything. Happily - I was right near the anchorage at this point. A bit of inertia, a bit of the bow thruster, and I managed to get an "alright" spot. Only mildly stressful - especially considering the Greek coast guard was right in front of us dealing with another boat who was "in the fish" a moment prior. 
 
 > [!hint]- pan-pan, pan-pan, pan-pan - I am in the fish, I am in the fish
