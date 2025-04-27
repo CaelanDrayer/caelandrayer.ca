@@ -18,8 +18,7 @@ hide:
 
 ![](attachments/lightblue_birds.jpg)
 
-![bluewaters](attachments/bluewaters.jpg)
-
+![bluewaters - Copy](attachments/bluewaters%20-%20Copy.jpg)
 ![bluewaters1](attachments/bluewaters1.jpg)
 
 ![lightbluewaters](attachments/lightbluewaters.jpg) 
