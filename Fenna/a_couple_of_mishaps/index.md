@@ -14,10 +14,10 @@ comments: true
 hide:
 ---
 
-[A bit of a tow](A%20bit%20of%20a%20tow.md)
+[a_bit_of_a_tow](a_bit_of_a_tow.md)]
 
 [an_oily_situation](../mechanics_maintenance_oh_my/an_oily_situation.md)
 
-[inflatable no longer](inflatable%20no%20longer.md)
+[inflatable_no_longer](inflatable_no_longer.md)
 
-[You cant park here](You%20cant%20park%20here.md)
+[you_cant_park_here](you_cant_park_here.md)

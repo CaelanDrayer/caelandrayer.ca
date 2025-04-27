@@ -3,7 +3,7 @@ title: inflatable no longer
 draft: false
 tags: 
 aliases: 
-description: 
+description: When the inflatable boat is no longer inflated.
 permalink: 
 enableToc: true
 cssclasses: 
