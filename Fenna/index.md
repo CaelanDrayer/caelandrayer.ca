@@ -31,10 +31,4 @@ This Nordia 49 Cruiser was built in 1993 by van Dam Nordia Yachts. Designed by R
 Some pictures from the very first day I arrived at the boat:
 ![](attachments/ricercare_bow.jpg)
 ![](attachments/ricercare_stern.jpg)
-[Gallery](Gallery/index.md)
 
-[a couple of mishaps](a_couple_of_mishaps/index.md)
-
-[mechanics, maintenance, oh my](mechanics_maintenance_oh_my/index.md)
-
-[sailing the seas](sailing_the_seas/index.md)
