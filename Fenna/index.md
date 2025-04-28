@@ -25,7 +25,8 @@ Thus, Vancouver - the place I was born and raised (and continue to call home!). 
 It took years of searching for him to find one that was a mixture of the right type, size, price, quality, condition, and all of the other components one looks for in a yacht.  One fun requirement - Ceiling height. Standing at 6’2” he didn’t want to have to crouch the whole time. His search led him up and down the west coast of North America - with no real luck. As such, the search expanded across the globe. Eventually, he came upon something in Preveza, Greece - A yacht called the Ricercare.
 
 This Nordia 49 Cruiser was built in 1993 by van Dam Nordia Yachts. Designed by Robert van Dam, she was originally called Natryna. Renamed to Ricercare around 2003 when she was purchased by a Dutch gentleman named Henk, she spent almost 20 years under his care - before at age 84 he decided it was time to part ways with her.  These are excerpts from then onwards - my father & me sailing around. 
-![fenna_first_launch](sailing_the_seas/attachments/fenna_first_launch.jpg)
+
+![bluewater_selfie](sailing_the_seas/attachments/bluewater_selfie.jpg)
 
 Some pictures from the very first day I arrived at the boat:
 ![](attachments/ricercare_bow.jpg)
