@@ -16,8 +16,8 @@ hide:
 ---
 # Mechanics, maintenance, oh my
 
-[immediately put to work](immediately_put_to_work.md)
-
 [an oily situation](an_oily_situation.md)
 
-[throttle not connected](shifter_not_connected.md)
+[immediately I was put to work](immediately_put_to_work.md)
+
+[typically, the shifter is connected to the engine](shifter_not_connected.md)
