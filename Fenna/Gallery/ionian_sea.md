@@ -1,5 +1,5 @@
 ---
-title: Ionia
+title: Ionian Sea
 draft: false
 tags: 
 aliases: 
