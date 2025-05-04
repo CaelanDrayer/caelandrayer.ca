@@ -16,5 +16,6 @@ hide:
 ---
 # Gallery
 
-[ionian_sea](ionian_sea.md)
+[Ionian Sea](ionian_sea.md)
 
+[Ionian Anchorages and Towns](ionian_anchorages_and_towns.md)

@@ -12,6 +12,7 @@ modified: 2025-04-13  16:20
 published: 
 comments: true
 hide:
+  - toc
 ---
 Dropping anchor should be simple, however it is an act that must be done with great care.
 
