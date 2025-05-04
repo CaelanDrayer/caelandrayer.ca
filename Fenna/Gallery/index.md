@@ -16,5 +16,5 @@ hide:
 ---
 # Gallery
 
-[Ionia](Ionia.md)
+[Ionian Sea](Ionian%20Sea.md)
 

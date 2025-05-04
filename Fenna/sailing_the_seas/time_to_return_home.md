@@ -27,4 +27,10 @@ This combination of forces results in your boat spinning, and shifting in a coll
 On our boat, reversing means a minimum of three simultaneous actions - throttle, helm, and bow thruster. One more than you have hands for. Add in the need to communicate with whoever is on deck - it becomes a rather stressful maneuver. I most certainly did not get this in first go.
 
 ![](attachments/endofseason.jpg)
-With that - the boat goes back up! We will be back next year (2025) to continue cruising along. 
+With that - the boat goes back up! 
+![lift_boat_tractor](attachments/lift_boat_tractor.mov)
+![lift_boat_trailering](attachments/lift_boat_trailering.mov)
+
+
+
+We will be back next year (2025) to continue cruising along. 

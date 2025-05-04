@@ -22,6 +22,12 @@ The town of Lakka, on the island of Paxos is gorgeous. It is every bit an idylli
 
 This anchorage tight. Very tight. A fun example of that below, where these boats are happily smacking into each other as they spin around their anchors. 
 ![](attachments/lakka_bumpingboats.jpg)
+
+Another example of how tight the Lakka anchorage gets
+![lakka_anchor](attachments/lakka_anchor.jpg)
+
+
+
 We had our own fun with this one night as well. We had dropped anchor earlier in the day as far to the edge as possible - both to maximize the available space & to try and have as few people at risk of bumping into us as possible. 
 
 A bigger (25m) motorboat anchored right beside us - close, but with what passes for enough room in a place like this. Great! No reasonable person would think to anchor between us, so we could relax. Then came the most dreaded of things - a charter catamaran. They came in between us and the motorboat, dropped anchor and immediately went for dinner. Five minutes later, the catamaran was up bumping against the motorboat. 
